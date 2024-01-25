@@ -1,4 +1,4 @@
-# GIT FAZT
+# GIT 
 Bienvenido a mi repositorio de aprendizaje de Git / Github
 
 en este repositorio encontraras muchos recursos con lo que me he encontrado
